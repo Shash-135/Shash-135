@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shash-135
 - 👀 I’m interested in Game Designing
 - 🌱 I’m currently learning Python, Java;
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig:- Shash_135 M.No:- 8668902342
 
 <!---
