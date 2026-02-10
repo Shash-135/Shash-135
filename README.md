@@ -48,7 +48,13 @@ My core strength comes from a solid understanding of Data Structures and Algorit
 
 ### 📊 My GitHub Stats
 
-![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shash-135&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shash-135&theme=radical" alt="Shashank's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shash-135&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
