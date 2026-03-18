@@ -1,67 +1,75 @@
-# Hi there, I'm Shashank! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Shashank%20Talekar&fontSize=75&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<a href="https://www.linkedin.com/in/Shashank-Talekar" target="_blank">
-  <img align="right" alt="Shashank Talekar | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.hackerrank.com/profile/shashanktalekar3" target="_blank">
- <img align="right" alt="Shashank | HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" style="margin-right: 8px;" />
-</a>
-
-### A Versatile Software Developer with a Passion for Problem-Solving
-
-I'm a developer from Pune, India 🇮🇳, with a broad foundation across multiple technology stacks, from **.NET** and **Java** to **Python** and **PHP**. My strength lies in my strong grasp of **Data Structures and Algorithms**, which I enjoy applying to solve complex problems.
-
-I am a hands-on learner who believes the best way to master a technology is to **build with it**. While I'm proficient in many areas, I am always eager to learn more. I am now channeling this passion towards mastering **Full-Stack Development** and diving into the fascinating world of **Machine Learning**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F8D866&center=true&vCenter=true&width=500&lines=Software+Developer;Full-Stack+Architect;Problem+Solver;Backend+Specialist" />
+</p>
 
 ---
 
-### 🚀 What I'm Focusing On Now
+## 🚀 The Mission
+I am a Pune-based developer dedicated to building robust, scalable software. With a deep foundation in **Data Structures and Algorithms**, I specialize in transforming complex requirements into clean, maintainable code across various tech stacks.
 
-- 🧠 **Machine Learning:** Exploring fundamental concepts and libraries like Scikit-learn, TensorFlow, and Pandas.
-- 🏗️ **Full-Stack Mastery:** Building end-to-end applications and deepening my knowledge of RESTful APIs, and modern frontend frameworks.
-- 💻 **Competitive Programming:** Continuously honing my DSA skills on platforms like HackerRank.
-
----
-
-### 💻 My Tech Stack & Tools
-
-This is a snapshot of the technologies I've worked with. I'm always adding more to my toolbox!
-
-| Languages                                                                                                                                                                                                                                                                                        | Frontend Development                                                                                                                                                            | Backend Development                                                                                                                                                                                                                                                                  | Databases                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />                                                      | <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />                                                                                               | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />                                                                    | <img src="https://img.shields.io/badge/Servlet-E34F26?style=for-the-badge&logo=java&logoColor=white" />                                                                                                                                                                 |                                                                                                                                                                                                                                                                          |
+- 🔭 **Currently Focusing on:** Advanced Full-Stack Architectures and RESTful API Optimization.
+- 🏗️ **Architectural Philosophy:** Clean Code, SOLID principles, and Scalability.
+- ⚡ **Fun Fact:** I treat DSA like a gym workout—consistency is the key to peak performance.
 
 ---
 
-### 🏆 My Problem-Solving Profile
+## 🛠 My Digital Arsenal
 
-My core strength comes from a solid understanding of Data Structures and Algorithms, which I regularly practice. You can check out my progress on HackerRank:
-
+### 💻 **Languages & Core Logic**
 <p align="left">
-  <a href="https://www.hackerrank.com/profile/shashanktalekar3" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Shashank's HackerRank Profile"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,js,php" />
+</p>
+
+### 🌐 **Frontend & UI Engineering**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ **Backend & Database Architecture**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,postgres,mongodb" />
+</p>
+
+### 🔧 **DevOps & Workflow**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
+</p>
+
+---
+
+## 🏆 Performance & Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shash-135&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="trophy" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shash-135&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shash-135&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛰️ Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/Shashank-Talekar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/shashanktalekar3">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:shashanktalekar3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-### 📊 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shash-135&theme=radical" alt="Shashank's GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=Shash-135&label=SYSTEM+ACCESSES&color=F8D866&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shash-135&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-I'm always open to connecting with fellow developers, so feel free to reach out!
-
-<p align="left">
-<a href="https://www.linkedin.com/in/Shashank-Talekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shashank Talekar" height="30" width="40" /></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
