@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 The Mission
-I am a Pune-based developer dedicated to building robust, scalable software[cite: 5, 10]. [cite_start]With a deep foundation in **Data Structures and Algorithms**, I specialize in transforming complex requirements into clean, maintainable code across various tech stacks.
+I am a Pune-based developer dedicated to building robust, scalable software. With a deep foundation in **Data Structures and Algorithms**, I specialize in transforming complex requirements into clean, maintainable code across various tech stacks.
 
 - 🔭 **Currently Focusing on:** Advanced Full-Stack Architectures and RESTful API Optimization.
 - 🏗️ **Architectural Philosophy:** Clean Code, SOLID principles, and Scalability.
